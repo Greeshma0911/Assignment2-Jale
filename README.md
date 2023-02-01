@@ -27,3 +27,11 @@ Here are 4 countries that one must visit in their life time.
 | Australia | pqr | 6 |
 | Indonesia | abc | 4 |
 | Cambodia | lmn | 7 |
+
+---
+## Funny Quotes that will make one laugh
+
+>Age is of no importance unless you're a cheese.
+*Billie Burke
+>If you think nobody cares if you're alive, try missing a couple of car payments.
+*Earl Wilson
