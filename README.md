@@ -4,7 +4,7 @@
 Baseball is a **bat-ball game** played between 2 teams. Each team has nine players taking turns batting and fielding. I like baseball because its one of the **easiest games** and everyone can learn and play regardless of their age.
 
 ---
-## Favorite Sport
+# Favorite Sport
 Indian 
 1. XYZ
 2. ABC
@@ -19,7 +19,7 @@ Indian
 [link to my image](AboutMe.md)
 
 ---
-## 4 Countries that one must visit 
+# 4 Countries that one must visit 
 Here are 4 countries that one must visit in their life time.
 | Country | Reason | No. of Days |
 | --- | --- | ---: |
@@ -29,9 +29,25 @@ Here are 4 countries that one must visit in their life time.
 | Cambodia | lmn | 7 |
 
 ---
-## Funny Quotes that will make one laugh
+# Pithy Quotes
 
 > Age is of no importance unless you're a cheese. *Billie Burke*
 
 > If you think nobody cares if you're alive, try missing a couple of car payments.
 *Earl Wilson*
+
+---
+# Code Fencing
+> Markdown Guide <https://www.markdownguide.org/basic-syntax/>
+
+```
+@function map-deep-get($map, $keys...) {
+    @each $key in $keys {
+        $map: map-get($map, $key);
+    }
+    @return $map;
+}
+
+```
+
+Sass Code <https://css-tricks.com/snippets/sass/deep-getset-maps/>
