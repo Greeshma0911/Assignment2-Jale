@@ -18,3 +18,12 @@ Indian
 
 [link to my image](AboutMe.md)
 
+---
+## 4 Countries that one must visit 
+Here are 4 countries that one must visit in their life time.
+| Country | Reason | No. of Days |
+| --- | --- | ---: |
+| India | xyz | 15 |
+| Australia | pqr | 6 |
+| Indonesia | abc | 4 |
+| Cambodia | lmn | 7 |
