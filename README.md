@@ -40,7 +40,7 @@ Here are 4 countries that one must visit in their life time.
 
 ---
 # Code Fencing
-> Markdown Guide <https://www.markdownguide.org/basic-syntax/>
+> Referencing Gatsby SASS renames nested styles <https://stackoverflow.com/questions/75316835/referencing-gatsby-sass-renames-nested-styles>
 
 ```
 @function map-deep-get($map, $keys...) {
