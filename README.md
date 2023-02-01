@@ -4,22 +4,24 @@
 Baseball is a **bat-ball game** played between 2 teams. Each team has nine players taking turns batting and fielding. I like baseball because its one of the **easiest games** and everyone can learn and play regardless of their age.
 
 ---
-# Favorite Sport
-Indian 
-1. XYZ
-2. ABC
-3. PQR
+# Favorite Sport - Ordered List and Unordered List
+Favorite Team India
 
+Three Best players in the team.
+1. ABC1
+2. ABC2
+3. ABC3
 
+Other Favorite Teams
 * USA
 * Australia
     * England
 * New Zealand
 
-[link to my image](AboutMe.md)
+[Link to my image](AboutMe.md)
 
 ---
-# 4 Countries that one must visit 
+# Tables - 4 Countries that one must visit 
 Here are 4 countries that one must visit in their life time.
 | Country | Reason | No. of Days |
 | --- | --- | ---: |
@@ -29,7 +31,7 @@ Here are 4 countries that one must visit in their life time.
 | Cambodia | lmn | 7 |
 
 ---
-# Pithy Quotes
+# Funny Quotes
 
 > Age is of no importance unless you're a cheese. *Billie Burke*
 
